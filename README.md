@@ -1,2 +1,43 @@
-# Shortner
-🔗 URL Shortener This is a simple and efficient URL Shortener application that takes long URLs and generates unique short links for easier sharing and tracking. It’s a beginner-friendly project demonstrating how to work with routing, databases, and basic web app logic.
+🔗 URL Shortener
+A simple and efficient URL Shortener built with Python, designed to take a long URL and generate a unique, shortened version that redirects back to the original. Perfect for sharing links with better readability and tracking.
+
+🚀 Features
+🔄 Convert long URLs into short, easy-to-share links
+
+📦 Store and manage original-shortened URL pairs
+
+🧭 Redirect short URLs to their original targets
+
+🛡️ Basic validation and error handling
+
+🗃️  Database integration for persistent storage (SQLite, MongoDB, etc.)
+
+📊  Click tracking and analytics
+
+🛠️ Tech Stack
+Backend: Python
+
+Hosting: Localhost 
+
+📦 How to Use
+Clone the repo
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/url-shortener.git
+cd url-shortener
+Install dependencies
+
+**bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the app
+
+bash
+Copy
+Edit
+python app.py
+Visit
+http://localhost:5000 and try shortening a URL!**
