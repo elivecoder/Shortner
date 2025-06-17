@@ -25,7 +25,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/url-shortener.git
+git clone [https://github.com/yourusername/url-shortener.git](https://github.com/elivecoder/Shortner/blob/main/Shortener.py)
 cd url-shortener
 Install dependencies
 
